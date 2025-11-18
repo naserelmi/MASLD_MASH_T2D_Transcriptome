@@ -1,0 +1,12 @@
+Figure 10: T-test bar-plot for all comparisons with p-value < 0.05.
+a:Normal/MASLD with T2D vs Moderate MASLD/MASH with T2D
+b:Normal/MASLD with T2D vs Moderate MASLD/MASH without T2D
+c:Normal/MASLD with T2D vs Severe MASLD/MASH with T2D
+d:Normal/MASLD with T2D vs Severe MASLD/MASH without T2D
+e:Normal/MASLD without T2D vs Moderate MASLD/MASH with T2D
+f:Normal/MASLD without T2D vs Moderate MASLD/MASH without T2D
+g:Normal/MASLD without T2D vs Severe MASLD/MASH with T2D
+h:Normal/MASLD without T2D vs Severe MASLD/MASH without T2D
+i:Severe MASLD/MASH with T2D vs Moderate MASLD/MASH with T2D
+j:Severe MASLD/MASH without T2D vs Moderate MASLD/MASH with T2D
+k:Severe MASLD/MASH without T2D vs Moderate MASLD/MASH without T2D
